@@ -31,7 +31,7 @@ The game integrates specialized multi-format design components localized to show
 * **`Abdallah's project.fla`:** The master authoring project source file containing timeline nodes, symbol sheets, and ActionScript code layers.
 * **`Abdallah's project.swf`:** The compiled, playable Shockwave Flash container executable.
 * **`vcamfile.fla`:** Custom workspace camera attachment handling tracking and perspective adjustments.
-* **`Pictures/`:** Centralized asset ledger containing all interface maps, key vectors, background layers, and music files.
+* **`Pictures and Music/`:** Centralized asset ledger containing all interface maps, key vectors, background layers, and music file.
 
 ---
 
